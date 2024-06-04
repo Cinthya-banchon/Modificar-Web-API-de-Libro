@@ -22,19 +22,19 @@
 
 A continuación se muestra la ejecución respectiva:
 
-![image](https://github.com/Cinthya-banchon/Modificar-Web-API-de-Libro/assets/170268641/aea3a6ab-447a-4df7-aa43-5f62c070c8dd)
+![image](https://github.com/Cinthya-banchon/Modificar-Web-API-de-Libro/assets/170268641/a0632023-e2a0-4cd8-9912-cd2f8f06600f)
 
 ## Controlador Global de Excepciones
 
 A continuación se muestra la ejecución respectiva:
 
-![image](https://github.com/Cinthya-banchon/Modificar-Web-API-de-Libro/assets/170268641/f46bf954-e128-4cc8-ab97-14b9cdfca836)
+![image](https://github.com/Cinthya-banchon/Modificar-Web-API-de-Libro/assets/170268641/9686825b-225f-4c1e-843a-dac1cd40e0a6)
 
 ## Modificación del método postLibro
 
 A continuación se muestra la ejecución respectiva:
 
-![image](https://github.com/Cinthya-banchon/Modificar-Web-API-de-Libro/assets/170268641/50f5cc49-dc99-4a9f-b21f-47b496caed03)
+![image](https://github.com/Cinthya-banchon/Modificar-Web-API-de-Libro/assets/170268641/2c015815-2d31-4d7d-b6ca-4a5b6854f804)
 
 Ahí se ha mostrado paso a paso. 
 Así concluiría mi tarea.
